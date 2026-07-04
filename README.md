@@ -1,7 +1,44 @@
 # Travel Memory
+<img width="1077" height="557" alt="1   login through ssh" src="https://github.com/user-attachments/assets/0e2bbe74-a659-4f77-8161-731ca488f1ed" />
 
 
+<img width="1536" height="842" alt="1   SSH accesss to ec2 instance" src="https://github.com/user-attachments/assets/abb0ac49-9e12-4447-99ea-c32c3491f04e" />
 
+<img width="792" height="212" alt="2  Node installed" src="https://github.com/user-attachments/assets/9fc87189-b7ef-4c81-a10e-816c2cf59701" />
+
+<img width="1757" height="1020" alt="3  installling required packages" src="https://github.com/user-attachments/assets/8218038d-e1af-4726-b976-e4a3aa7602c6" />
+
+<img width="955" height="297" alt="4  installing PM2" src="https://github.com/user-attachments/assets/050fe616-0ef4-4607-ab87-6772c6112b8b" />
+
+
+<img width="1097" height="630" alt="5  Creating  env file in backend folder" src="https://github.com/user-attachments/assets/fcdc622e-9149-42ec-b76b-3a88fcf7758f" />
+
+
+<img width="1657" height="932" alt="6  backend server started" src="https://github.com/user-attachments/assets/69a537d3-d2c2-4355-9c76-3dabc1dff774" />
+
+
+<img width="1622" height="1017" alt="7  moving to frontend" src="https://github.com/user-attachments/assets/b2d515d2-92f5-4952-968b-9efffe7f9694" />
+
+
+<img width="1782" height="1012" alt="8  package installed and env created" src="https://github.com/user-attachments/assets/3fea8a50-f27a-40f9-9666-88f722bf72b2" />
+
+<img width="1017" height="247" alt="2  Node and NPM installed" src="https://github.com/user-attachments/assets/62a2333b-cf4a-4358-81b6-91bf1d5a22b6" />
+
+
+<img width="1077" height="171" alt="3  Repository cloned" src="https://github.com/user-attachments/assets/17197ed1-bb00-459b-8117-a29df3cf29b6" />
+
+<img width="1577" height="775" alt="6  port 3000 and 3001 allowed" src="https://github.com/user-attachments/assets/67d4522c-aaae-458c-aff1-ab8a74852a0e" />
+
+<img width="1032" height="631" alt="7  backend server tested" src="https://github.com/user-attachments/assets/0426252f-1586-4b1a-b18f-63eafbda5326" />
+
+<img width="1096" height="636" alt="8  frontend env configured" src="https://github.com/user-attachments/assets/53a03e14-5070-4d67-9977-29ba1f271f2f" />
+
+<img width="987" height="342" alt="9  front end running" src="https://github.com/user-attachments/assets/c7f053b9-0f0a-4c10-ad6d-f9e1c13ec601" />
+
+<img width="1462" height="821" alt="10  Nginx nstalled" src="https://github.com/user-attachments/assets/6d7b5e89-d0c0-416c-95ac-55bbf0d30277" />
+
+
+<img width="1245" height="332" alt="11  Nginx configured and started" src="https://github.com/user-attachments/assets/a61cd542-402e-4d2a-b70a-9b7e49de4987" />
 
 <img width="1097" height="395" alt="2  updating  apt" src="https://github.com/user-attachments/assets/85ea6cca-8ec0-4eb8-a1ca-a91f81d327af" />
 
